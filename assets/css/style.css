@@ -410,10 +410,28 @@ h2 {
   font-weight: 100%;
 }
 /*end education*/
+/*services*/
+.services {
+  background-color: #cff7d5;
+  padding: 100px 0;
+}
+.services h2{
+  text-align: center;
+  padding-bottom: 15px;
+  text-decoration: solid;
+}
+.services .card{
+  border-radius: 20px;
+  margin: 30px;
+  border-color: #cff7d5;
+  padding: 20px 0 20px 0;
+}
+
+/*end services*/
 
 /*footer*/
 footer {
-  background: #73d673;
+  background: #b5e5ae;
   justify-content: center; 
 }
 footer .contact-section{
@@ -452,6 +470,7 @@ footer .contact-section{
   box-sizing: 50%;
   font-size: 22px; 
 }
+
 
 footer .contact-form {
   border-radius: 25px;
